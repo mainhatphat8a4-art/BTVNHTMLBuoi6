@@ -1,10 +1,10 @@
 .layout{
     display: flex;
     width: 100%;
-    justify-content: space-evenly;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 20px;
+    justify-content: space-evenly; /*Các phần tử cách đều nhau và cách đều hai bên theo trục chính*/
+    align-items: center;/*Các phần tử canh giữa theo trục phụ*/
+    flex-wrap: wrap;/*Các phần tử tự động xuống hàng khi hết layout*/
+    gap: 20px;/*Khoảng cách giữa các phần tử là 20px*/
 }
 
 .card{
