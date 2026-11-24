@@ -1,0 +1,14 @@
+.layout{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card{
+    background-color: aqua;
+    font-size: 60px;
+    padding: 20px 20px 20px 20px;
+}
